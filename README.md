@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Computer Science Enthusiast | Full Stack Developer | Open Source Explorer</strong>
+    <strong>Computer Science Enthusiast | Full Stack Developer | Open Source Contributor</strong>
   </p>
 
   <!-- Profile Views & Socials -->
@@ -26,13 +26,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building**: 
+- 🔭 **Current Personal Builds**: 
   - **[BugListy](https://github.com/giri-sayan/BugListy)** — Omnichannel AI feedback triage & developer bug board.
   - **[IndoLingo](https://github.com/giri-sayan/IndoLingo)** — Interactive, gamified platform to learn Indian languages.
-- 🩺 **Recent Project**: **[PulseCare](https://github.com/giri-sayan/PulseCare)** — Complete healthcare management & clinical database system.
-- ⚙️ **Systems & Core CS**: Exploring compiler internals with **[Compiler Pipeline Visualizer](https://github.com/giri-sayan/compiler-pipeline-visualizer)**.
-- 💡 **Problem Solving**: Regularly solving data structures & algorithm problems in **Java** on **[LeetCode](https://github.com/giri-sayan/Leetcode)**.
-- 💬 Ask me about **JavaScript, Python, React/Vite, SQL, and DSA**.
+- 🤝 **Collaborations & Open Source**:
+  - Contributed to **[SplitSimple](https://github.com/ashmitiscool/SplitSimple)** (expense sharing web application).
+  - Contributed to **[Adaptive AI CPU Scheduler](https://github.com/ansu06/Adaptive-ai-cpu-scheduler)** (systems & scheduling).
+- 🩺 **Healthcare Tech**: **[PulseCare](https://github.com/giri-sayan/PulseCare)** — Complete clinical operations and patient management database.
+- ⚙️ **Systems & Compilers**: Exploring compiler internals with **[Compiler Pipeline Visualizer](https://github.com/giri-sayan/compiler-pipeline-visualizer)**.
+- 💡 **Problem Solving**: Practicing data structures and algorithms in **Java** on **[LeetCode](https://github.com/giri-sayan/Leetcode)**.
 
 ---
 
@@ -64,14 +66,25 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Personal Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🐞 **[BugListy](https://github.com/giri-sayan/BugListy)** | Omnichannel AI Feedback Triage & Developer Bug Board | `JavaScript` `Vite` `Node.js` |
 | 🗣️ **[IndoLingo](https://github.com/giri-sayan/IndoLingo)** | Gamified interactive platform to learn Indian languages | `JavaScript` `HTML/CSS` `Vite` |
-| 🏥 **[PulseCare](https://github.com/giri-sayan/PulseCare)** | Healthcare operations, patient management & database system | `Python` `Streamlit` `PL/SQL` |
+| 🏥 **[PulseCare](https://github.com/giri-sayan/PulseCare)** | Healthcare operations, patient management & database system | `Python` `Streamlit` `Oracle PL/SQL` |
 | 🔍 **[Compiler Pipeline](https://github.com/giri-sayan/compiler-pipeline-visualizer)** | Visualizer demonstrating compiler stages and lexing | `Python` `Web` `Compilers` |
+
+---
+
+### 🤝 Collaborations & Contributed Projects
+
+| Project | Description | Contribution / Role |
+| :--- | :--- | :--- |
+| 💸 **[SplitSimple](https://github.com/ashmitiscool/SplitSimple)** | Flexible, minimal expense sharing and bill splitting platform | Collaborator / Feature Development |
+| ⚡ **[Adaptive AI CPU Scheduler](https://github.com/ansu06/Adaptive-ai-cpu-scheduler)** | Simulation and algorithms for adaptive AI-based CPU task scheduling | Contributor / Systems Algorithms |
+| 🌐 **[Computer Networks Project](https://github.com/ar9tomato/Computer-Networks-Project)** | Socket programming and network protocol implementations | Contributor / Network Analysis |
+| 🎨 **[Gemini ChatGPT Theme](https://github.com/ashmitiscool/gemini-chatgpt-theme)** | Clean custom UI styling and theme integration | Collaborator |
 
 ---
 
@@ -85,11 +98,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=giri-sayan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- include_all_commits=true counts commits across all contributed repositories -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=giri-sayan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐️ <i>"Consistency and curiosity build great software."</i> — Crafted with care for <a href="https://github.com/giri-sayan">@giri-sayan</a></sub>
+  <sub>⭐️ <i>"Consistency and curiosity build great software."</i> — Designed for <a href="https://github.com/giri-sayan">@giri-sayan</a></sub>
 </div>
